@@ -49,10 +49,6 @@ bad_request_3={
             }
 }
 
-check_initial_request={
-
-}
-
 LIST_URL = 'http://192.168.0.16:8080/students/general/get-student-list'
 COUNT_URL = 'http://192.168.0.16:8080/students/general/get-student-count'
 CHECK_INITIAL_URL='http://192.168.0.16:8080/students/general/5'
